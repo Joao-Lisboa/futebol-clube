@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do Trybe Futebol Clube!
 
-Esse foi um projeto que eu realizei pela Trybe.
+Esse foi um projeto que eu realizei pela Trybe. Realizando toda a parte de BACK-END da aplicação!
 
 
 <details>
